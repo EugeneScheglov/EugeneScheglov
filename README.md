@@ -1,4 +1,4 @@
-### Hi there! My name is Eugene and I'm Web-Developer! 👋
+### 👋 Hi there! My name is Eugene and I'm Web-Developer!
 ### Всем привет! Меня зовут Евгений, я веб-разработчик! 👋
 
 ---
