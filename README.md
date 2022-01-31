@@ -33,4 +33,4 @@
 
 ### Контакты / Contacts
 
-![IMG_3384](https://user-images.githubusercontent.com/83172101/151795078-d486745d-5d01-4948-acf4-ba807fcefbed.JPG)
+![https://t.me/a11mightyy](https://user-images.githubusercontent.com/83172101/151795078-d486745d-5d01-4948-acf4-ba807fcefbed.JPG)
