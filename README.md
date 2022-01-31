@@ -18,7 +18,7 @@
 
 ### Стэк / Stack
 
----
+--- 
 
 ![html5](/img/html5.svg)
 ![css3](/img/css3.svg)
@@ -30,5 +30,7 @@
 ![react](/img/react.svg)
 
 ---
+
+### Контакты / Contacts
 
 ![IMG_3384](https://user-images.githubusercontent.com/83172101/151795078-d486745d-5d01-4948-acf4-ba807fcefbed.JPG)
