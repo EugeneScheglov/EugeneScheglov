@@ -20,9 +20,9 @@
 
 ---
 
-![css3](/img/css3.svg)
 ![html5](/img/html5.svg)
 ![javascript](/img/javascript.svg)
+![css3](/img/css3.svg)
 ![nodejs](/img/nodejs.svg)
 
 ![vuejs](/img/vuejs.svg)
