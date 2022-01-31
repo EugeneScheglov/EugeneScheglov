@@ -20,8 +20,9 @@
 ---
 
 ![css3](/img/css3.svg)
-![css3](/img/html5.svg)
-![css3](/img/javascript.svg)
-![css3](/img/nodejs.svg)
-![css3](/img/vuejs.svg)
-![css3](/img/webpack.svg)
+![html5](/img/html5.svg)
+![javascript](/img/javascript.svg)
+![nodejs](/img/nodejs.svg)
+![vuejs](/img/vuejs.svg)
+![webpack](/img/webpack.svg)
+![react](/img/react.svg)
