@@ -4,7 +4,7 @@
 ---
 ### Обо мне / About me
 
-**✔ Успешный студент онлайн-курсов от [YandexPracticum](https://practicum.yandex.ru/profile/web/) по Web-разработке(Full-Stack)**
+**✔ Успешный студент онлайн-курсов от [YandexPracticum](https://practicum.yandex.ru/profile/web/) по Web-разработке**
 
 <!--
 **EugeneScheglov/EugeneScheglov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
