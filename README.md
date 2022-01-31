@@ -19,10 +19,9 @@
 
 ---
 
-/img/css3.svg
-/img/html5.svg
-/img/javascript.svg
-/img/logo-nodejs.svg
-/img/react.svg
-/img/vuejs.svg
-/img/webpack.svg
+![css3](/img/css3.svg)
+![css3](/img/html5.svg)
+![css3](/img/javascript.svg)
+![css3](/img/logo-nodejs.svg)
+![css3](/img/vuejs.svg)
+![css3](/img/webpack.svg)
