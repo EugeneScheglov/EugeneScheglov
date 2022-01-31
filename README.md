@@ -22,6 +22,6 @@
 ![css3](/img/css3.svg)
 ![css3](/img/html5.svg)
 ![css3](/img/javascript.svg)
-![css3](/img/logo-nodejs.svg)
+![css3](/img/nodejs.svg)
 ![css3](/img/vuejs.svg)
 ![css3](/img/webpack.svg)
