@@ -23,6 +23,7 @@
 ![html5](/img/html5.svg)
 ![javascript](/img/javascript.svg)
 ![nodejs](/img/nodejs.svg)
+
 ![vuejs](/img/vuejs.svg)
 ![webpack](/img/webpack.svg)
 ![react](/img/react.svg)
